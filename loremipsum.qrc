@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/LoremIpsum">
+        <file>LoremIpsomImage.jpg</file>
+        <file>LoremIpsum.ico</file>
+        <file>LoremIpsum.jpg</file>
+        <file>rff_logo.png</file>
+    </qresource>
+</RCC>
